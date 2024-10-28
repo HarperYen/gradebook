@@ -17,7 +17,7 @@ export default function FirebaseFetcher() {
     };
 
     fetchData();
-  }, [students]);
+  }, []);
 
   return (
     <View>
